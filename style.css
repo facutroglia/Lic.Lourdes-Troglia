@@ -249,14 +249,14 @@ body {
 /* HERO SECTION */
 .hero-section {
   position: relative;
-  padding-top: 4rem;
+  padding-top: 0.5rem;
   padding-bottom: 4rem;
   overflow: hidden;
 }
 
 @media (min-width: 1024px) {
   .hero-section {
-    padding-top: 7rem;
+    padding-top: 4rem;
     padding-bottom: 7rem;
   }
 }
