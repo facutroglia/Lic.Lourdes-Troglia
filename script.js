@@ -1,4 +1,4 @@
-const PSYCHOLOGIST_WA_NUMBER = "5493512848492";
+const PSYCHOLOGIST_WA_NUMBER = "5493513354709";
 
 document.addEventListener("DOMContentLoaded", () => {
   const bookingForm = document.getElementById("booking-form");
